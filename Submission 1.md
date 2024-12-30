@@ -1,7 +1,7 @@
 # Submission 1: Nama Proyek Anda
-Nama:
+Nama: Dinar Wahyu Rahman
 
-Username dicoding:
+Username dicoding: dinar_wahyu
 
 | | Deskripsi |
 | ----------- | ----------- |
